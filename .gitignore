@@ -53,3 +53,13 @@ dkms.conf
 
 # debug information files
 *.dwo
+# CampusCompute generated files and temporary drivers
+*.log
+*.zip
+campuscompute
+test_logger
+test_ipc
+test_worker
+test_logger.c
+test_ipc.c
+test_worker.c
